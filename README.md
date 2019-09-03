@@ -1,2 +1,0 @@
-# JSPromises
-Created with CodeSandbox
